@@ -1,3 +1,7 @@
+# Amazon Replica
+
+This is a functional shopping app intended to be a clone of Amazon and some of its features. This clone is mixed with my design style and features that I thought would make it look better. This was created with React and incorporates Firebase Cloud Firestore, Firebase authentication, and accepts payments through Stripe.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
